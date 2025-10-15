@@ -1,4 +1,4 @@
-# 🖋️ Google Font Links
+# 🖋️ Google Font Links Shortcut
 
 > [!NOTE]
 > It's pretty annoying to go to the Google Fonts library every time, so here's a handy reference with links for commonly used fonts — grouped by style.
